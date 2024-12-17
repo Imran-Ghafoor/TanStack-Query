@@ -15,6 +15,7 @@ export const InfiniteScroll = () => {
     });
   console.log(data);
 
+  // for screen scroll
   // const handleScroll = () => {
   //   const bottom =
   //     window.innerHeight + window.scrollY >=
